@@ -16,10 +16,16 @@
   align-items: center;
   flex-direction: column;
   cursor: pointer;
+  transition: opacity 0.15s;
 }
 
 .sidebar-link:hover {
   background-color: rgb(235, 235, 235);
+  border-radius: 10px;
+}
+
+.sidebar-link:active {
+  opacity: 0.7;
 }
 
 .sidebar-link img {
