@@ -3,6 +3,11 @@ p {
   margin-bottom: 0;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   font-family: Roboto, Arial;
   margin: 0;

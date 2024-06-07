@@ -30,15 +30,9 @@
   cursor: pointer;
 }
 
-.hamburger-menu:hover {
-  margin-left: 16px;
-  background-color: rgb(235, 235, 235);
-  border-radius: 30px;
-  padding: 8px;
-}
-
 .youtube-logo {
   height: 20px;
+  cursor: pointer;
 }
 
 .middle-section {
@@ -78,7 +72,7 @@
 }
 
 .search-button:hover {
-  background-color: rgb(214, 214, 214);
+  background-color: rgb(221, 221, 221);
 }
 
 .search-button:active {
